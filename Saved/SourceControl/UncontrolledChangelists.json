@@ -9,7 +9,7 @@
 				"A:/UnRealEngine/Pinball_Project/Pinball/Content/Maps/Pinball_Level.umap",
 				"A:/UnRealEngine/Pinball_Project/Pinball/Content/BluePrints/TriggerSphere_Blueprint.uasset",
 				"A:/UnRealEngine/Pinball_Project/Pinball/Content/PhysicsMaterial/Bounce_Material.uasset",
-				"A:/UnRealEngine/Pinball_Project/Pinball/Content/Blueprints/Ball_BP.uasset",
+				"A:/UnRealEngine/Pinball_Project/Pinball/Content/BluePrints/Ball_BP.uasset",
 				"A:/UnRealEngine/Pinball_Project/Pinball/Content/BluePrints/Score_Widget_BP.uasset",
 				"A:/UnRealEngine/Pinball_Project/Pinball/Content/BluePrints/BoxCollision_BP.uasset",
 				"A:/UnRealEngine/Pinball_Project/Pinball/Content/BluePrints/ScoreWidget_BP.uasset",
@@ -22,6 +22,7 @@
 				"A:/UnRealEngine/Pinball_Project/Pinball/Content/Input/Flippers_IA.uasset",
 				"A:/UnRealEngine/Pinball_Project/Pinball/Content/BluePrints/Plunger_BP.uasset",
 				"A:/UnRealEngine/Pinball_Project/Pinball/Content/BluePrints/Bumpers_BP.uasset",
+				"A:/UnRealEngine/Pinball_Project/Pinball/Content/BluePrints/MyGameInstance_BP.uasset",
 				"A:/UnRealEngine/Pinball_Project/Pinball/Content/BluePrints/Ball_Blueprint.uasset",
 				"A:/UnRealEngine/Pinball_Project/Pinball/Content/Interface/Score_Widget_BP.uasset"
 			]
