@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"A:/UnRealEngine/Pinball_Project/Pinball/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"A:/UnRealEngine/Pinball_Project/Pinball/Content/Maps/Pinball_Level.umap",
+				"A:/UnRealEngine/Pinball_Project/Pinball/Content/BluePrints/TriggerSphere_Blueprint.uasset",
+				"A:/UnRealEngine/Pinball_Project/Pinball/Content/PhysicsMaterial/Bounce_Material.uasset",
+				"A:/UnRealEngine/Pinball_Project/Pinball/Content/Blueprints/Ball_BP.uasset",
+				"A:/UnRealEngine/Pinball_Project/Pinball/Content/BluePrints/Score_Widget_BP.uasset",
+				"A:/UnRealEngine/Pinball_Project/Pinball/Content/BluePrints/BoxCollision_BP.uasset",
+				"A:/UnRealEngine/Pinball_Project/Pinball/Content/BluePrints/ScoreWidget_BP.uasset",
+				"A:/UnRealEngine/Pinball_Project/Pinball/Content/BluePrints/BallRespawn_BP.uasset",
+				"A:/UnRealEngine/Pinball_Project/Pinball/Content/BluePrints/MainMenuWidget_BP.uasset",
+				"A:/UnRealEngine/Pinball_Project/Pinball/Content/BluePrints/MainMenu_GameMode_BP.uasset",
+				"A:/UnRealEngine/Pinball_Project/Pinball/Content/Maps/MainMenu_UI.umap",
+				"A:/UnRealEngine/Pinball_Project/Pinball/Content/BluePrints/FlippersPawn_BP.uasset",
+				"A:/UnRealEngine/Pinball_Project/Pinball/Content/Input/Pinball_IMC.uasset",
+				"A:/UnRealEngine/Pinball_Project/Pinball/Content/Input/Flippers_IA.uasset",
+				"A:/UnRealEngine/Pinball_Project/Pinball/Content/BluePrints/Plunger_BP.uasset",
+				"A:/UnRealEngine/Pinball_Project/Pinball/Content/BluePrints/Bumpers_BP.uasset",
+				"A:/UnRealEngine/Pinball_Project/Pinball/Content/BluePrints/Ball_Blueprint.uasset",
+				"A:/UnRealEngine/Pinball_Project/Pinball/Content/Interface/Score_Widget_BP.uasset"
+			]
+		}
+	]
+}
